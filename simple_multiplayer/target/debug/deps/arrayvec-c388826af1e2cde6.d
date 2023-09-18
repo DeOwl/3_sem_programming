@@ -1,0 +1,11 @@
+C:\Personal data\projects\uni\3 sem\programming\simple_multiplayer\target\debug\deps\arrayvec-c388826af1e2cde6.rmeta: C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs
+
+C:\Personal data\projects\uni\3 sem\programming\simple_multiplayer\target\debug\deps\arrayvec-c388826af1e2cde6.d: C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs
+
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs:

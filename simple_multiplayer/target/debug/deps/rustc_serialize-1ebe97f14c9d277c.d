@@ -1,0 +1,10 @@
+C:\Personal data\projects\uni\3 sem\programming\simple_multiplayer\target\debug\deps\rustc_serialize-1ebe97f14c9d277c.rmeta: C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs
+
+C:\Personal data\projects\uni\3 sem\programming\simple_multiplayer\target\debug\deps\rustc_serialize-1ebe97f14c9d277c.d: C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs
+
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\lib.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\serialize.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\collection_impls.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\base64.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\hex.rs:
+C:\Users\DeOwl\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-serialize-0.3.24\src\json.rs:
